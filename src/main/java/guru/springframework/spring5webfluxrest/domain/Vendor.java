@@ -31,4 +31,12 @@ public class Vendor {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 }
